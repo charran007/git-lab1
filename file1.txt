@@ -1,2 +1,4 @@
 first line
 second line in remote master
+third line in local master
+
